@@ -1,0 +1,3 @@
+this is the root script directory
+main.lua here is what runs the other scripts
+it is the script that manages what runs and itself shuld do nothing more

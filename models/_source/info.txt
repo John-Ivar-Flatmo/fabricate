@@ -1,0 +1,7 @@
+source for model files
+
+here lies:
+working files, eg .scad .blend
+convertion scripts, eg stlToObj
+the raw files in respective folders eg ./stl/actualModel.stl
+finished files in respective fodler eg ./obj/actualModel.obj

@@ -1,0 +1,3 @@
+scripts that handle optional dependencies
+eg if mod X found then use MATERIAL from mod X instead
+or if mod X found then use script to handle support on our side of FEATURE from mod X

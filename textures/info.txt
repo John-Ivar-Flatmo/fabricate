@@ -1,0 +1,6 @@
+this is the texture folder, textures go here
+
+syntax
+
+modname_blockname_side
+example: fabricate_andesiteAlloy_top

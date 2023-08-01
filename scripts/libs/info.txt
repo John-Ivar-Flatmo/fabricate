@@ -1,0 +1,3 @@
+our own library style lua scripts are found here
+these are made and used as needed
+or to satisfy a dependency that wuld oterwise be filled by a optional dependancy
