@@ -18,7 +18,7 @@ minetest.register_node("fabricate:ores_copper", {
     is_ground_content = true,	--allow caves to replace block when generating
     groups = {
 		ore, ores, ores_copper, ore_copper, copper_ore,			--tag groups, oredict etc
-		cracky=3,level=3			--mining groups, cracky(higher faster to mine), level(higher easier to mine(tool quality))
+		cracky=3	--mining groups, cracky(higher faster to mine), level(higher easier to mine(tool quality))
 	},
     --drop = "fabricate:copper:ore"	--drop instead of self
 })

@@ -1,4 +1,5 @@
 --BROKEN NEEDS WORK, ITS TOO IMPRACTICAL TO DO THIS ATM need to wait for minetest to support require atleast
+--briefly looked into making our own temporary require funciton, its likely possible but we have to use dofile(minetests own modified version) for it since minetest security prevents anything else atleast as far as i know
 
 --document written with tabsize 4
 --indexes mod files so they can be loaded without writing full relative path
