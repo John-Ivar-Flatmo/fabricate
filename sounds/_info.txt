@@ -1,0 +1,6 @@
+this is the sounds folder, sounds go here
+
+syntax
+
+modname_blockname_event
+example: fabricate_mechanicalPress_strike

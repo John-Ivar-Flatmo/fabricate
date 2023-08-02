@@ -1,0 +1,9 @@
+##main menu settings
+##see minetest/builtin/settingtypes.txt ##for refrence
+##syntax
+##[section]
+##settingName type value
+##[*subSection]
+
+##advanced subsection shuld be added for non technical user settings
+##[*advanced]
