@@ -2,6 +2,9 @@
 ##script to convert stl files to obj files
 scriptDir="${PWD}"
 
+##TOAD
+#keep find recursivly and keep folder structure on output ##TODO-1
+
 ##DEPENDENCIES
 echo "dependencies"
 echo "blender"
