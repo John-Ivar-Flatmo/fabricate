@@ -18,6 +18,12 @@ dofile(modPath.."/scripts/blocks/fabricate_ore_iron.lua")
 dofile(modPath.."/scripts/blocks/fabricate_ore_gold.lua")
 dofile(modPath.."/scripts/blocks/fabricate_ore_copper.lua")
 dofile(modPath.."/scripts/blocks/fabricate_ore_zinc.lua")
+dofile(modPath.."/scripts/items/fabricate_iron_ingot.lua")
+dofile(modPath.."/scripts/items/fabricate_iron_nugget.lua")
+dofile(modPath.."/scripts/items/fabricate_zinc_ingot.lua")
+dofile(modPath.."/scripts/items/fabricate_zinc_nugget.lua")
+dofile(modPath.."/scripts/items/fabricate_brass_ingot.lua")
+dofile(modPath.."/scripts/items/fabricate_brass_nugget.lua")
 
 
 --TOOLS
@@ -27,3 +33,8 @@ dofile(modPath.."/scripts/blocks/fabricate_ore_zinc.lua")
 
 --ARMOR
 
+
+
+
+--GENERATION
+dofile(modPath.."/scripts/world/world_gen.lua")
