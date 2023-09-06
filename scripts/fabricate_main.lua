@@ -1,5 +1,5 @@
 --document written with tabsize 4
---document is entierly syncronus, what it loads is however probably asyncronus
+--document is entierly syncronus, what it loads however can be asyncronus
 print("fabricate: main.lua")
 
 --TOAD
