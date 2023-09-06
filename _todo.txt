@@ -1,1 +1,2 @@
 make the readme look nicer, sue proper markup or some shit
+make script to "prepare release" basicly just copy over anything that does not start with _ into a build folder
