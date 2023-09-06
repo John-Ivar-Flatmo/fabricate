@@ -6,7 +6,8 @@ Minetest mod that attempts to recreate the functionality of the minecraft mod cr
 basicly recreate the mechanics from create
 
 We only aim to recreate the funcitonality,
-as stuch some blocks will look different and some blocks that serve the same purpuse might be merged and so on
+as stuch some blocks will look different and some blocks,
+that serve the same purpuse might be merged and so on
 
 goals:
 	full create funcitonality
