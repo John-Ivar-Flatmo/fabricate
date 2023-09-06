@@ -11,3 +11,8 @@ goals:
  
 additional functionality or changes shuld be handled by addons
 addons even "official" ones will be in seperate git repos
+
+
+differences from create:
+	not depoendant on andesite. we use any cobblestone or stone
+	repurpuse rather than retire old blocks	 #long live the furnace engine
