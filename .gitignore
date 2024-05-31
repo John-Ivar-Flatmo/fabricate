@@ -11,3 +11,4 @@ node_modules
 .crates.toml
 .crates2.json
 bin
+models/_source/stl
