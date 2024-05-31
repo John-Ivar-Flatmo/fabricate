@@ -1,0 +1,13 @@
+##scripts
+chrome.sh.DataDir
+
+
+##node
+package-lock.json
+node_modules
+
+
+##cargo
+.crates.toml
+.crates2.json
+bin

@@ -1,0 +1,17 @@
+##config for editors, also configures prettier/stylua
+##a way to prevent formatters from changing identation level of comments wuld be great
+	##so its possible to do comments like this
+	##for several reasons for example continuing the same sentence
+		##or even some sub subject somthing related but that a section in its own right
+	##if a formatter that dontsent respect comment indentation
+	##ever learns to format this file this gunna look real dumb
+##the low max line lenght limnit is so that peaple can have sidebars in their editors at half the screen at 1080p
+root = true
+
+[*]
+charset = utf-8
+indent_style = tab
+indent_size = 1
+insert_final_newline = true
+trim_trailing_whitespace = true
+max_line_length = 80

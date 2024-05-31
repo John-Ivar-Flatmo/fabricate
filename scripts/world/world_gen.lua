@@ -1,5 +1,3 @@
-
-
 --minetest.register_decoration({
 --    deco_type = "simple",
 --    place_on = {"base:dirt_with_grass"},
@@ -19,13 +17,11 @@ minetest.register_ore({
 	height_min = -3100,
 	height_max = 200,
 	noise_params = {
-		offset= 0,
+		offset = 0,
 		scale = 1,
-		spread = { x=100, y=50, z=100 },
+		spread = { x = 100, y = 50, z = 100 },
 		seed = 23,
 		octaves = 5,
-		persist 	= 0.70
-	}
-
+		persist = 0.70,
+	},
 })
-

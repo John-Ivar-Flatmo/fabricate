@@ -6,7 +6,7 @@ Minetest mod that attempts to recreate the functionality of the minecraft mod cr
 basicly recreate the mechanics from create
 
 We only aim to recreate the funcitonality,
-as stuch some blocks will look different and some blocks,
+as sutch some blocks will look different and some blocks,
 that serve the same purpuse might be merged and so on
 
 goals:
@@ -18,7 +18,7 @@ addons even "official" ones will be in seperate git repos
 
 
 differences from create:
-	not depoendant on andesite. we use any cobblestone or stone
+	not dependant on andesite. we use any cobblestone or stone
 	repurpuse rather than retire old blocks	 #long live the furnace engine
 	
 </code></pre>
