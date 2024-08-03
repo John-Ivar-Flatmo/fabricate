@@ -1,0 +1,8 @@
+basicly just you cracken, please confirm that your ok with licence change
+somone delete the file after
+
+i just added a media licence
+i wuld also change lgpl to apache, but lgpl is standard for minetest so, goin with eavryone else
+Just write yeah alright or somthing you can tell by who uploaded the file just sign of using git
+
+
